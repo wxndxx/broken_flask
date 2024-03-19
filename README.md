@@ -2,7 +2,7 @@
 
 # Flask
 
-Пример приложения Flask, которое можно развернуть в **Timeweb Cloud Apps** без настройки.
+Пример приложения [Flask](https://flask.palletsprojects.com/en/3.0.x/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
 :tada: [Демо](https://timeweb-cloud-app-example-flask-c349.twc1.net)
 
